@@ -23,7 +23,7 @@
     "@openzeppelin/contracts": "^4.1.0",
     "@openzeppelin/test-helpers": "^0.5.11",
     "chai": "^4.3.4",
-    "ethereum-waffle": "^3.3.0",
+    "ethereum-waffle": "^4.0.10",
     "ethers": "^5.1.4",
     "hardhat": "^2.2.1"
   }
